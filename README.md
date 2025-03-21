@@ -5,4 +5,4 @@ This project is based on the [cryptochain](https://github.com/pingleware/cryptoc
 The use case for the Blockchain in PHP is the immutable persistence for the Exempt Liquidity Market Exchange, a SEC registered NMS and SRO for exempt and intrastate offerings.
 
 ## Whitepaper
-![whitepaper](whitepaper.pdf)
+<iframe width="100%" height="800" src="https://github.com/pingleware/blockchain-php/blob/main/whitepaper.pdf">
