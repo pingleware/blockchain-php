@@ -10,5 +10,3 @@ The use case for the Blockchain in PHP is the immutable persistence for the Exem
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/pingleware/blockchain-php/blob/main/whitepaper.pdf">Download PDF</a>.</p>
     </embed>
 </object>
-
-[whitepaper](whitepaper.pdf)
